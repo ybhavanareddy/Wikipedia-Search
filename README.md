@@ -20,7 +20,7 @@
 
 🌍 Live Demo
 
-Want to try it out? Click here to experience the magic!
+Want to try it out? Click here : https://ybhavanareddy.github.io/Wikipedia-Search/
 
 🤝 Contributing
 
